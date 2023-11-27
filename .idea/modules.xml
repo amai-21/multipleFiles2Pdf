@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/multipleFiles2Pdf.iml" filepath="$PROJECT_DIR$/multipleFiles2Pdf.iml" />
+      <module fileurl="file://$USER_HOME$/Python/Python312/Lib/site-packages/jedi/third_party/typeshed/stdlib/3/os/os.iml" filepath="$USER_HOME$/Python/Python312/Lib/site-packages/jedi/third_party/typeshed/stdlib/3/os/os.iml" />
+    </modules>
+  </component>
+</project>
